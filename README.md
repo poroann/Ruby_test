@@ -1,4 +1,5 @@
 # Ruby_test
+https://coimo.net/ruby/
 
 ## クラスの勉強
 
