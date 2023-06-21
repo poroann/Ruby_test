@@ -17,6 +17,6 @@ jobs:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWRD }}
-          server-dir: ~/www/coimo/ruby/
+          server-dir: /coimo/ruby/
           local-dir: ./
           
